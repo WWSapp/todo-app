@@ -1,0 +1,7 @@
+{
+  "homepage": "https://WWSapp.github.io/todo-app",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+} 
